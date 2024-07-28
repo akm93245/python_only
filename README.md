@@ -7,3 +7,8 @@
 > about Ahmad\
 
 > he is just a student thats it and trying to learn
+
+`python ka chilla`
+
+> on  this repo there will be python ka chilla file \
+> which is about data science
